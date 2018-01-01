@@ -28,10 +28,5 @@ in your GN argument file before building.
 
 ------
 
-Extra patches:
-patches/chromium-theme-color.patch: Provides a callback when a theme color is set by the page
-
-------
-
 For questions about building WebView, please see
 https://groups.google.com/a/chromium.org/forum/#!forum/android-webview-dev
